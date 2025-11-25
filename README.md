@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-P I N N E D  L I N K S : 
+P I N N E D  L I N K S : <br>
 Website: https://farinalten.com/
 
 <!--
