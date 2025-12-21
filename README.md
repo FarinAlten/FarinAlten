@@ -3,9 +3,5 @@
 P I N N E D  L I N K S : <br>
 Website: https://farinalten.com/
 
-<!--
-**FarinAlten/FarinAlten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student from North-Rheine-Westphalia, and I am interested in Swift and Web development, as well as photography.
 
-P I N N E D  L I N K S : 
-Website: https://farinalten.com/
--->
