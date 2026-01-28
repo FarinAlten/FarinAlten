@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-P I N N E D  L I N K S : <br>
+Pinned links : <br>
 Website: https://farinalten.com/
 
 My projects can be found here on Github, but also on my website: <br>
